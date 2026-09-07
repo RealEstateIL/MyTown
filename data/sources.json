@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T06:24:43.480Z",
+  "updatedAt": "2026-09-07T06:29:35.976Z",
   "company": {
     "name": "קבוצת מיי טאון בע\"מ",
     "tase": 2449,
@@ -25,19 +25,19 @@
     "bond-quote": {
       "title": "ציטוט אג״ח סדרה א׳",
       "data": {
-        "price": 100.59,
-        "yieldGross": 9.38,
-        "yieldNet": 7.86,
+        "price": 103.04,
+        "yieldGross": 7.79,
+        "yieldNet": 6.3,
         "duration": 1.58,
-        "adjustedGross": 103.19,
-        "adjustedNet": 102.71,
-        "yearsToMaturity": 1.72,
-        "govSpread": 6.11
+        "adjustedGross": 103.27,
+        "adjustedNet": 102.78,
+        "yearsToMaturity": 1.71,
+        "govSpread": 4.51
       },
-      "fetchedAt": "2026-09-03T06:27:56.847Z",
-      "stale": true,
+      "fetchedAt": "2026-09-07T06:29:35.976Z",
+      "stale": false,
       "via": "ביזפורטל · טבלת ביצועים",
-      "error": "ביזפורטל · טבלת ביצועים: HTTP שגוי"
+      "error": null
     },
     "news": {
       "title": "כתבות שפורסמו",
@@ -97,10 +97,10 @@
           "source": "TheMarker"
         },
         {
-          "title": "ההתחדשות העירונית ממשיכה להתקדם: הריסת מבנים ישנים בתל אביב ויבנה - ynet",
+          "title": "ההתחדשות העירונית ממשיכה להתקדם: הריסת מבנים ישנים בתל אביב ויבנה - ynet.co.il",
           "date": "Thu, 21 Aug 2025 07:00:00 GMT",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40bGtiOHk0Y2V5WDA0TmZJWExPeXRDaldIWnhsNDFISERlNFZSTDJQN05RNmlzZlB2blAwa1Y5ZlhoSGM0c1Rtc2NDWjVxdTlLcmdVTnVyNWRscmhJcFE?oc=5",
-          "source": "ynet"
+          "source": "ynet.co.il"
         },
         {
           "title": "רמת אביב הישנה מתחדשת: שיכון ובינוי ומיי טאון ייבנו 150 דירות - מרכז הנדל\"ן",
@@ -121,6 +121,12 @@
           "source": "גלובס"
         },
         {
+          "title": "732 מיליון ש\"ח בדרך לקריית מלאכי: המיזם שישנה את פני העיר - ice (אייס)",
+          "date": "Thu, 27 Nov 2025 08:00:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIbVJkM1NMYkkwT1otc0JQYjVfR2pCcTZMa29ZMkRMZmp1d3JOdzJJWlpwcUV4UzBNelNfUmJOZVFFZGVZbERTVGhWZkE4aHlmMGNTNUxhVUpLeGplZ3dvZ18zOA?oc=5",
+          "source": "ice (אייס)"
+        },
+        {
           "title": "גיוס אג\"ח ראשון ל-MY TOWN: גייסה 62 מיליון שקל עם ביקושים של מעל 150 מלש\"ח - מרכז הנדל\"ן",
           "date": "Wed, 04 Dec 2024 08:00:00 GMT",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xaWxNQnAxbFduM2ZVcW1IRkdiN2swa3haZGE5Q3VIZTJFTWh4c1FIb1JwZ1ZMRmlOSU1hQ1VubTFKRXl5Y2dsMU5BVE51MTJVNWktUUtYTQ?oc=5",
@@ -133,7 +139,7 @@
           "source": "מרכז הנדל\"ן"
         }
       ],
-      "fetchedAt": "2026-09-06T06:24:43.480Z",
+      "fetchedAt": "2026-09-07T06:29:35.976Z",
       "stale": false,
       "via": "Google News RSS",
       "error": null

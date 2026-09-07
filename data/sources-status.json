@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-09-06T06:24:43.480Z",
+  "ranAt": "2026-09-07T06:29:35.976Z",
   "env": "GitHub Actions",
   "results": [
     {
@@ -15,14 +15,14 @@
           "candidate": "mayaapi · company/reports",
           "url": "https://mayaapi.tase.co.il/api/company/reports?companyId=2449&lang=he",
           "status": 403,
-          "ms": 948,
+          "ms": 332,
           "result": "HTTP שגוי"
         },
         {
           "candidate": "mayaapi · v1/company/reports",
           "url": "https://mayaapi.tase.co.il/api/v1/company/reports?companyId=2449&lang=he",
           "status": 403,
-          "ms": 5670,
+          "ms": 605,
           "result": "HTTP שגוי"
         }
       ]
@@ -40,14 +40,14 @@
           "candidate": "magna · חיפוש לפי ח.פ.",
           "url": "https://www.magna.isa.gov.il/api/reports/search?corporateNumber=514444660&pageSize=30",
           "status": 403,
-          "ms": 319,
+          "ms": 178,
           "result": "HTTP שגוי"
         },
         {
           "candidate": "magna · דף התוצאות · פרסור HTML",
           "url": "https://www.magna.isa.gov.il/?q=514444660",
           "status": 403,
-          "ms": 19,
+          "ms": 11,
           "result": "HTTP שגוי"
         }
       ]
@@ -57,16 +57,17 @@
       "title": "ציטוט אג״ח סדרה א׳",
       "why": "התשואה השוטפת · הפריט האחרון שחסר בלשונית מידע למשקיע",
       "blockedOnCI": null,
-      "ok": false,
-      "via": null,
-      "count": 0,
+      "ok": true,
+      "via": "ביזפורטל · טבלת ביצועים",
+      "count": 1,
       "attempts": [
         {
           "candidate": "ביזפורטל · טבלת ביצועים",
           "url": "https://www.bizportal.co.il/bonds/quote/generalview/1214626",
-          "status": 403,
-          "ms": 160,
-          "result": "HTTP שגוי"
+          "status": 200,
+          "bytes": 187084,
+          "ms": 270,
+          "result": "הצליח"
         }
       ]
     },
@@ -77,14 +78,14 @@
       "blockedOnCI": null,
       "ok": true,
       "via": "Google News RSS",
-      "count": 15,
+      "count": 16,
       "attempts": [
         {
           "candidate": "Google News RSS",
           "url": "https://news.google.com/rss/search?q=%22%D7%A7%D7%91%D7%95%D7%A6%D7%AA%20%D7%9E%D7%99%D7%99%20%D7%98%D7%90%D7%95%D7%9F%22&hl=he&gl=IL&ceid=IL:he",
           "status": 200,
-          "bytes": 16178,
-          "ms": 283,
+          "bytes": 17139,
+          "ms": 231,
           "result": "הצליח"
         }
       ]
