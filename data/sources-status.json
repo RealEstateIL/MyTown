@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-09-13T06:29:17.423Z",
+  "ranAt": "2026-09-14T06:28:58.149Z",
   "env": "GitHub Actions",
   "results": [
     {
@@ -15,14 +15,14 @@
           "candidate": "mayaapi · company/reports",
           "url": "https://mayaapi.tase.co.il/api/company/reports?companyId=2449&lang=he",
           "status": 403,
-          "ms": 968,
+          "ms": 354,
           "result": "HTTP שגוי"
         },
         {
           "candidate": "mayaapi · v1/company/reports",
           "url": "https://mayaapi.tase.co.il/api/v1/company/reports?companyId=2449&lang=he",
           "status": 403,
-          "ms": 879,
+          "ms": 795,
           "result": "HTTP שגוי"
         }
       ]
@@ -40,14 +40,14 @@
           "candidate": "magna · חיפוש לפי ח.פ.",
           "url": "https://www.magna.isa.gov.il/api/reports/search?corporateNumber=514444660&pageSize=30",
           "status": 403,
-          "ms": 282,
+          "ms": 268,
           "result": "HTTP שגוי"
         },
         {
           "candidate": "magna · דף התוצאות · פרסור HTML",
           "url": "https://www.magna.isa.gov.il/?q=514444660",
           "status": 403,
-          "ms": 8,
+          "ms": 6,
           "result": "HTTP שגוי"
         }
       ]
@@ -65,8 +65,8 @@
           "candidate": "ביזפורטל · טבלת ביצועים",
           "url": "https://www.bizportal.co.il/bonds/quote/generalview/1214626",
           "status": 200,
-          "bytes": 187162,
-          "ms": 469,
+          "bytes": 187089,
+          "ms": 346,
           "result": "הצליח"
         }
       ]
@@ -78,14 +78,14 @@
       "blockedOnCI": null,
       "ok": true,
       "via": "Google News RSS",
-      "count": 18,
+      "count": 17,
       "attempts": [
         {
           "candidate": "Google News RSS",
           "url": "https://news.google.com/rss/search?q=%22%D7%A7%D7%91%D7%95%D7%A6%D7%AA%20%D7%9E%D7%99%D7%99%20%D7%98%D7%90%D7%95%D7%9F%22&hl=he&gl=IL&ceid=IL:he",
           "status": 200,
-          "bytes": 20032,
-          "ms": 315,
+          "bytes": 19033,
+          "ms": 271,
           "result": "הצליח"
         }
       ]
