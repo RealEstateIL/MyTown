@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T06:24:57.357Z",
+  "updatedAt": "2026-09-21T06:28:39.328Z",
   "company": {
     "name": "קבוצת מיי טאון בע\"מ",
     "tase": 2449,
@@ -26,15 +26,15 @@
       "title": "ציטוט אג״ח סדרה א׳",
       "data": {
         "price": 106.08,
-        "yieldGross": 5.94,
-        "yieldNet": 4.47,
+        "yieldGross": 5.97,
+        "yieldNet": 4.5,
         "duration": 1.55,
-        "adjustedGross": 103.49,
-        "adjustedNet": 102.97,
-        "yearsToMaturity": 1.68,
-        "govSpread": 2.6
+        "adjustedGross": 103.56,
+        "adjustedNet": 103.02,
+        "yearsToMaturity": 1.67,
+        "govSpread": 3.86
       },
-      "fetchedAt": "2026-09-20T06:24:57.357Z",
+      "fetchedAt": "2026-09-21T06:28:39.328Z",
       "stale": false,
       "via": "ביזפורטל · טבלת ביצועים",
       "error": null
@@ -61,16 +61,16 @@
           "source": "גלובס"
         },
         {
-          "title": "בקומה ה-21 בעיר המפתיעה: נמכר הפנטהאוז היקר ביותר אי פעם ב-3.4 מיליון שקל - maariv.co.il",
+          "title": "בקומה ה-21 בעיר המפתיעה: נמכר הפנטהאוז היקר ביותר אי פעם ב-3.4 מיליון שקל - מעריב",
           "date": "Thu, 23 Apr 2026 07:00:00 GMT",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LYVhySDVvckhEYkdWdFVFWk10bndSOW41WWhYVXloX2dPOWpZaWVaRWNhTV9kWjA1bzR2dXQ0X2M5Y2F1bm9nYnF0VzVrdm41cVpYZWNlY25NdkRvNGlzY2JHTHJ2WndTS2I0?oc=5",
-          "source": "maariv.co.il"
+          "source": "מעריב"
         },
         {
-          "title": "אחרי 30 שנה: הפרויקט שנתקע בקריית מלאכי סוף סוף יוצא לדרך - israelhayom.co.il",
+          "title": "אחרי 30 שנה: הפרויקט שנתקע בקריית מלאכי סוף סוף יוצא לדרך - היום",
           "date": "Wed, 27 May 2026 07:00:00 GMT",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CWDVGN0YwWldHOXJXa1VXTWFldmRzczBPekxnMXZqVnZfZXFTNlZSN2MySzVXWVZhV29IN2hKWTFnLWc5dHlLc0ZhaGl2S1BWVEJnMHVVQ242c3NXY0J2N200R1U4cmhSeUNwN3I2TG5ta0VtYUHSAX5BVV95cUxNMF8wZE5LdzhtZ0Y1cGJDeFcwN0ttaW5WdzZzdkgyUG9xLW1nVGJzU0NIQVdSamdfUzVVNS1oUWRxLWtkUWhYZTFMNDBBYWN3dHdEOE5temc1TGhqdmd4WGRPYlF3N2djSGFza3U4M3hGMlVndVdZc181UF9aTVE?oc=5",
-          "source": "israelhayom.co.il"
+          "source": "היום"
         },
         {
           "title": "בפחות מ-24 שעות: החברה שמכרה 15 דירות בפרויקט אחד - ice (אייס)",
@@ -97,16 +97,16 @@
           "source": "TheMarker"
         },
         {
-          "title": "ההתחדשות העירונית ממשיכה להתקדם: הריסת מבנים ישנים בתל אביב ויבנה - YNET",
-          "date": "Thu, 21 Aug 2025 07:00:00 GMT",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40bGtiOHk0Y2V5WDA0TmZJWExPeXRDaldIWnhsNDFISERlNFZSTDJQN05RNmlzZlB2blAwa1Y5ZlhoSGM0c1Rtc2NDWjVxdTlLcmdVTnVyNWRscmhJcFE?oc=5",
-          "source": "YNET"
-        },
-        {
           "title": "במינוף נמוך ורק עם חצי מיליון שקל בקופה: חברת הבנייה שרוצה לגייס אג\"ח - גלובס",
           "date": "Mon, 04 Nov 2024 08:00:00 GMT",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxUVpTSXlxcVNyQk44RzFfd2liQU16endxWEpuMEdjQzdQT1pKRU85bGJKdFhVOWQ4a28yVW1SRlVnNVVRU2Z1LU5FaWxxRHFuT3EtM2xTVXdmT3pKV0s1RWlYZHREZ3Bt?oc=5",
           "source": "גלובס"
+        },
+        {
+          "title": "ההתחדשות העירונית ממשיכה להתקדם: הריסת מבנים ישנים בתל אביב ויבנה - YNET",
+          "date": "Thu, 21 Aug 2025 07:00:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40bGtiOHk0Y2V5WDA0TmZJWExPeXRDaldIWnhsNDFISERlNFZSTDJQN05RNmlzZlB2blAwa1Y5ZlhoSGM0c1Rtc2NDWjVxdTlLcmdVTnVyNWRscmhJcFE?oc=5",
+          "source": "YNET"
         },
         {
           "title": "רמת אביב הישנה מתחדשת: שיכון ובינוי ומיי טאון ייבנו 150 דירות - מרכז הנדל\"ן",
@@ -145,7 +145,7 @@
           "source": "חדשות אפס שמונה"
         }
       ],
-      "fetchedAt": "2026-09-20T06:24:57.357Z",
+      "fetchedAt": "2026-09-21T06:28:39.328Z",
       "stale": false,
       "via": "Google News RSS",
       "error": null
