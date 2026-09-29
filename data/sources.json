@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T13:45:21.367Z",
+  "updatedAt": "2026-09-29T12:43:32.866Z",
   "company": {
     "name": "קבוצת מיי טאון בע\"מ",
     "tase": 2449,
@@ -26,15 +26,15 @@
       "title": "ציטוט אג״ח סדרה א׳",
       "data": {
         "price": 97.82,
-        "yieldGross": 11.88,
-        "yieldNet": 10.23,
-        "duration": 1.5,
-        "adjustedGross": 103.7,
-        "adjustedNet": 103.14,
+        "yieldGross": 9.14,
+        "yieldNet": 7.95,
+        "duration": 1.57,
+        "adjustedGross": 100,
+        "adjustedNet": 100,
         "yearsToMaturity": 1.65,
-        "govSpread": 8.44
+        "govSpread": 5.68
       },
-      "fetchedAt": "2026-09-28T13:45:21.367Z",
+      "fetchedAt": "2026-09-29T12:43:32.866Z",
       "stale": false,
       "via": "ביזפורטל · טבלת ביצועים",
       "error": null
@@ -53,12 +53,6 @@
           "date": "Thu, 26 Mar 2026 07:00:00 GMT",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmaGYzUXlDd21zYnNIemkwUnp5RmJVeGx0VEI0Z2NYeDM2THc1Nmk1alBlY1haV2taRVpfRjl4RXhTS0RybnRvZlBSdGdISnVfMjIybTdCOA?oc=5",
           "source": "מרכז הנדל\"ן"
-        },
-        {
-          "title": "\"אני אופטימי\": היזם שעזב את עולם ההייטק והקים חברת נדל\"ן - גלובס",
-          "date": "Sun, 21 Dec 2025 08:00:00 GMT",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96ZTZvQXJuQVFSLWVFQ3ZTNi1mLXdFSlpMOTNkMkVlVlo3RnVTcGp3WkNaSVp1ZVN6RDBYd19JMWV3NjZXOGcwME9uQmJMMG9EY3lURDRjdGllUTVlU2szanE1NUJ4Wi1u?oc=5",
-          "source": "גלובס"
         },
         {
           "title": "בקומה ה-21 בעיר המפתיעה: נמכר הפנטהאוז היקר ביותר אי פעם ב-3.4 מיליון שקל - מעריב",
@@ -85,6 +79,12 @@
           "source": "מרכז הנדל\"ן"
         },
         {
+          "title": "במינוף נמוך ורק עם חצי מיליון שקל בקופה: חברת הבנייה שרוצה לגייס אג\"ח - גלובס",
+          "date": "Mon, 04 Nov 2024 08:00:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxUVpTSXlxcVNyQk44RzFfd2liQU16endxWEpuMEdjQzdQT1pKRU85bGJKdFhVOWQ4a28yVW1SRlVnNVVRU2Z1LU5FaWxxRHFuT3EtM2xTVXdmT3pKV0s1RWlYZHREZ3Bt?oc=5",
+          "source": "גלובס"
+        },
+        {
           "title": "יובל שרף קוטפת קמפיין במיליונים: זה הג'וב היוקרתי בחברת הנדל\"ן - ice (אייס)",
           "date": "Sun, 15 Feb 2026 08:00:00 GMT",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpZ1VSVlIyYm4zZTltdDRjdDF5U1J0czhEVVBLb1p6Sm1hUFVLWHhQeXFIR29mbElkdWdrbi1adWZjLVRyVGlMczNDVG9RT2F5WVJDNG1kcjBjQ1VncHV1MHJZSEN0LWpxZ0dXSWpiQWJKQQ?oc=5",
@@ -97,16 +97,10 @@
           "source": "TheMarker"
         },
         {
-          "title": "ההתחדשות העירונית ממשיכה להתקדם: הריסת מבנים ישנים בתל אביב ויבנה - ynet.co.il",
+          "title": "ההתחדשות העירונית ממשיכה להתקדם: הריסת מבנים ישנים בתל אביב ויבנה - YNET",
           "date": "Thu, 21 Aug 2025 07:00:00 GMT",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40bGtiOHk0Y2V5WDA0TmZJWExPeXRDaldIWnhsNDFISERlNFZSTDJQN05RNmlzZlB2blAwa1Y5ZlhoSGM0c1Rtc2NDWjVxdTlLcmdVTnVyNWRscmhJcFE?oc=5",
-          "source": "ynet.co.il"
-        },
-        {
-          "title": "במינוף נמוך ורק עם חצי מיליון שקל בקופה: חברת הבנייה שרוצה לגייס אג\"ח - גלובס",
-          "date": "Mon, 04 Nov 2024 08:00:00 GMT",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxUVpTSXlxcVNyQk44RzFfd2liQU16endxWEpuMEdjQzdQT1pKRU85bGJKdFhVOWQ4a28yVW1SRlVnNVVRU2Z1LU5FaWxxRHFuT3EtM2xTVXdmT3pKV0s1RWlYZHREZ3Bt?oc=5",
-          "source": "גלובס"
+          "source": "YNET"
         },
         {
           "title": "רמת אביב הישנה מתחדשת: שיכון ובינוי ומיי טאון ייבנו 150 דירות - מרכז הנדל\"ן",
@@ -145,7 +139,7 @@
           "source": "מרכז הנדל\"ן"
         }
       ],
-      "fetchedAt": "2026-09-28T13:45:21.367Z",
+      "fetchedAt": "2026-09-29T12:43:32.866Z",
       "stale": false,
       "via": "Google News RSS",
       "error": null
