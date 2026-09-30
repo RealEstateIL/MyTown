@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T12:43:32.866Z",
+  "updatedAt": "2026-09-30T12:27:13.204Z",
   "company": {
     "name": "קבוצת מיי טאון בע\"מ",
     "tase": 2449,
@@ -26,15 +26,15 @@
       "title": "ציטוט אג״ח סדרה א׳",
       "data": {
         "price": 97.82,
-        "yieldGross": 9.14,
-        "yieldNet": 7.95,
+        "yieldGross": 9.16,
+        "yieldNet": 7.97,
         "duration": 1.57,
         "adjustedGross": 100,
         "adjustedNet": 100,
         "yearsToMaturity": 1.65,
-        "govSpread": 5.68
+        "govSpread": 5.75
       },
-      "fetchedAt": "2026-09-29T12:43:32.866Z",
+      "fetchedAt": "2026-09-30T12:27:13.204Z",
       "stale": false,
       "via": "ביזפורטל · טבלת ביצועים",
       "error": null
@@ -97,10 +97,10 @@
           "source": "TheMarker"
         },
         {
-          "title": "ההתחדשות העירונית ממשיכה להתקדם: הריסת מבנים ישנים בתל אביב ויבנה - YNET",
+          "title": "ההתחדשות העירונית ממשיכה להתקדם: הריסת מבנים ישנים בתל אביב ויבנה - ynet.co.il",
           "date": "Thu, 21 Aug 2025 07:00:00 GMT",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40bGtiOHk0Y2V5WDA0TmZJWExPeXRDaldIWnhsNDFISERlNFZSTDJQN05RNmlzZlB2blAwa1Y5ZlhoSGM0c1Rtc2NDWjVxdTlLcmdVTnVyNWRscmhJcFE?oc=5",
-          "source": "YNET"
+          "source": "ynet.co.il"
         },
         {
           "title": "רמת אביב הישנה מתחדשת: שיכון ובינוי ומיי טאון ייבנו 150 דירות - מרכז הנדל\"ן",
@@ -109,9 +109,9 @@
           "source": "מרכז הנדל\"ן"
         },
         {
-          "title": "732 מיליון ש\"ח בדרך לקריית מלאכי: המיזם שישנה את פני העיר - ice (אייס)",
-          "date": "Thu, 27 Nov 2025 08:00:00 GMT",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIbVJkM1NMYkkwT1otc0JQYjVfR2pCcTZMa29ZMkRMZmp1d3JOdzJJWlpwcUV4UzBNelNfUmJOZVFFZGVZbERTVGhWZkE4aHlmMGNTNUxhVUpLeGplZ3dvZ18zOA?oc=5",
+          "title": "שובר שוק: נמכר הפנטהאוז היקר בהיסטוריה של קריית מלאכי - זה המחיר - ice (אייס)",
+          "date": "Thu, 23 Apr 2026 07:00:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91RktXYWpkcTZxUzR1Tm1LOTc5RGxOWkQ1a05ydUcyMFc2T3ktMFFjSk5mTV9VSEw2c3FZZEZ6Sm1vZ1hhVDVIbDdmZHBHcEVxVHRrWHpyY3VCUVFiaXk5MjBaWQ?oc=5",
           "source": "ice (אייס)"
         },
         {
@@ -119,6 +119,12 @@
           "date": "Wed, 20 Nov 2024 08:00:00 GMT",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4ycGktR3pGSU0zb1pxcUItNTlLMnRoOWUzWXdpTGlabHBCdmNwM240blRoQ2IxS0ZSaXFjM2Vid2ozcFhhd0FpV20wQ3VDZkxMZlNzM3gtOEMta0Q2bmQ0WWxXWWx3a1R3?oc=5",
           "source": "גלובס"
+        },
+        {
+          "title": "732 מיליון ש\"ח בדרך לקריית מלאכי: המיזם שישנה את פני העיר - ice (אייס)",
+          "date": "Thu, 27 Nov 2025 08:00:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIbVJkM1NMYkkwT1otc0JQYjVfR2pCcTZMa29ZMkRMZmp1d3JOdzJJWlpwcUV4UzBNelNfUmJOZVFFZGVZbERTVGhWZkE4aHlmMGNTNUxhVUpLeGplZ3dvZ18zOA?oc=5",
+          "source": "ice (אייס)"
         },
         {
           "title": "חברות הנדל\"ן בבורסה מאבדות כ-30% – ומי שומרות על יציבות? - ביזנעס",
@@ -139,7 +145,7 @@
           "source": "מרכז הנדל\"ן"
         }
       ],
-      "fetchedAt": "2026-09-29T12:43:32.866Z",
+      "fetchedAt": "2026-09-30T12:27:13.204Z",
       "stale": false,
       "via": "Google News RSS",
       "error": null
