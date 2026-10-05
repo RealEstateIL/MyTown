@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-10-04T12:15:21.017Z",
+  "ranAt": "2026-10-05T14:27:15.927Z",
   "env": "GitHub Actions",
   "results": [
     {
@@ -15,14 +15,14 @@
           "candidate": "mayaapi · company/reports",
           "url": "https://mayaapi.tase.co.il/api/company/reports?companyId=2449&lang=he",
           "status": 403,
-          "ms": 899,
+          "ms": 3778,
           "result": "HTTP שגוי"
         },
         {
           "candidate": "mayaapi · v1/company/reports",
           "url": "https://mayaapi.tase.co.il/api/v1/company/reports?companyId=2449&lang=he",
           "status": 403,
-          "ms": 5693,
+          "ms": 932,
           "result": "HTTP שגוי"
         }
       ]
@@ -40,14 +40,14 @@
           "candidate": "magna · חיפוש לפי ח.פ.",
           "url": "https://www.magna.isa.gov.il/api/reports/search?corporateNumber=514444660&pageSize=30",
           "status": 403,
-          "ms": 141,
+          "ms": 413,
           "result": "HTTP שגוי"
         },
         {
           "candidate": "magna · דף התוצאות · פרסור HTML",
           "url": "https://www.magna.isa.gov.il/?q=514444660",
           "status": 403,
-          "ms": 13,
+          "ms": 24,
           "result": "HTTP שגוי"
         }
       ]
@@ -65,8 +65,8 @@
           "candidate": "ביזפורטל · טבלת ביצועים",
           "url": "https://www.bizportal.co.il/bonds/quote/generalview/1214626",
           "status": 200,
-          "bytes": 187858,
-          "ms": 313,
+          "bytes": 187910,
+          "ms": 664,
           "result": "הצליח"
         }
       ]
@@ -84,8 +84,8 @@
           "candidate": "Google News RSS",
           "url": "https://news.google.com/rss/search?q=%22%D7%A7%D7%91%D7%95%D7%A6%D7%AA%20%D7%9E%D7%99%D7%99%20%D7%98%D7%90%D7%95%D7%9F%22&hl=he&gl=IL&ceid=IL:he",
           "status": 200,
-          "bytes": 17107,
-          "ms": 227,
+          "bytes": 17116,
+          "ms": 302,
           "result": "הצליח"
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T12:15:21.017Z",
+  "updatedAt": "2026-10-05T14:27:15.927Z",
   "company": {
     "name": "קבוצת מיי טאון בע\"מ",
     "tase": 2449,
@@ -26,15 +26,15 @@
       "title": "ציטוט אג״ח סדרה א׳",
       "data": {
         "price": 97.82,
-        "yieldGross": 9.19,
-        "yieldNet": 8,
-        "duration": 1.56,
-        "adjustedGross": 100.02,
-        "adjustedNet": 100.02,
+        "yieldGross": 9.24,
+        "yieldNet": 8.04,
+        "duration": 1.55,
+        "adjustedGross": 100.08,
+        "adjustedNet": 100.07,
         "yearsToMaturity": 1.64,
-        "govSpread": 5.78
+        "govSpread": 5.82
       },
-      "fetchedAt": "2026-10-04T12:15:21.017Z",
+      "fetchedAt": "2026-10-05T14:27:15.927Z",
       "stale": false,
       "via": "ביזפורטל · טבלת ביצועים",
       "error": null
@@ -43,10 +43,10 @@
       "title": "כתבות שפורסמו",
       "data": [
         {
-          "title": "מה שלא נעשה ב-30 שנה, עשתה קבוצת מיי טאון בשנתיים - funder.co.il",
+          "title": "מה שלא נעשה ב-30 שנה, עשתה קבוצת מיי טאון בשנתיים - פאנדר",
           "date": "Thu, 28 May 2026 07:00:00 GMT",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTLTNJVXFTc3R3TVZTZTExOWNGOVdPTy12LUNuRGZqSndfUm9GMjZqdVJIR1pMRzctajhKd2I1bmp2Y2FrSVZvUjYtM0xVeGN6?oc=5",
-          "source": "funder.co.il"
+          "source": "פאנדר"
         },
         {
           "title": "קבוצת רוכשים קנתה 15 דירות בפרויקט \"מיי-טאון\" בקריית מלאכי. זה הסכום ששולם - מרכז הנדל\"ן",
@@ -61,10 +61,10 @@
           "source": "וואלה נדל\"ן"
         },
         {
-          "title": "בקומה ה-21 בעיר המפתיעה: נמכר הפנטהאוז היקר ביותר אי פעם ב-3.4 מיליון שקל - מעריב",
+          "title": "בקומה ה-21 בעיר המפתיעה: נמכר הפנטהאוז היקר ביותר אי פעם ב-3.4 מיליון שקל - maariv.co.il",
           "date": "Thu, 23 Apr 2026 07:00:00 GMT",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LYVhySDVvckhEYkdWdFVFWk10bndSOW41WWhYVXloX2dPOWpZaWVaRWNhTV9kWjA1bzR2dXQ0X2M5Y2F1bm9nYnF0VzVrdm41cVpYZWNlY25NdkRvNGlzY2JHTHJ2WndTS2I0?oc=5",
-          "source": "מעריב"
+          "source": "maariv.co.il"
         },
         {
           "title": "אחרי 30 שנה: הפרויקט שנתקע בקריית מלאכי סוף סוף יוצא לדרך - היום",
@@ -73,10 +73,10 @@
           "source": "היום"
         },
         {
-          "title": "בפחות מ-24 שעות: החברה שמכרה 15 דירות בפרויקט אחד - ice.co.il",
+          "title": "בפחות מ-24 שעות: החברה שמכרה 15 דירות בפרויקט אחד - ice (אייס)",
           "date": "Thu, 26 Mar 2026 07:00:00 GMT",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CTzFfbmJlMnB3ejZJLUN1dHNwTXZ2dXV6TndnaDhWcFQyU25tWUJYQm94TUg2N2VYNTZpb3JuQ3VBczVlbHZLWVRCZXRwSXR2YlN5dWF3MnU0S1F0akZLNEdPbw?oc=5",
-          "source": "ice.co.il"
+          "source": "ice (אייס)"
         },
         {
           "title": "מיי טאון סוגרת ליווי של 732 מיליון ש\"ח לפרויקט ההתחדשות הראשון בקריית מלאכי - מרכז הנדל\"ן",
@@ -91,10 +91,10 @@
           "source": "גלובס"
         },
         {
-          "title": "יובל שרף קוטפת קמפיין במיליונים: זה הג'וב היוקרתי בחברת הנדל\"ן - ice.co.il",
+          "title": "יובל שרף קוטפת קמפיין במיליונים: זה הג'וב היוקרתי בחברת הנדל\"ן - ice (אייס)",
           "date": "Sun, 15 Feb 2026 08:00:00 GMT",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpZ1VSVlIyYm4zZTltdDRjdDF5U1J0czhEVVBLb1p6Sm1hUFVLWHhQeXFIR29mbElkdWdrbi1adWZjLVRyVGlMczNDVG9RT2F5WVJDNG1kcjBjQ1VncHV1MHJZSEN0LWpxZ0dXSWpiQWJKQQ?oc=5",
-          "source": "ice.co.il"
+          "source": "ice (אייס)"
         },
         {
           "title": "ניצלה סכסוך שותפים: קבוצת גבאי השתלטה על חברת הבת של קבוצת מאי טאון - TheMarker",
@@ -115,10 +115,10 @@
           "source": "מרכז הנדל\"ן"
         },
         {
-          "title": "732 מיליון ש\"ח בדרך לקריית מלאכי: המיזם שישנה את פני העיר - ice.co.il",
+          "title": "732 מיליון ש\"ח בדרך לקריית מלאכי: המיזם שישנה את פני העיר - ice (אייס)",
           "date": "Thu, 27 Nov 2025 08:00:00 GMT",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIbVJkM1NMYkkwT1otc0JQYjVfR2pCcTZMa29ZMkRMZmp1d3JOdzJJWlpwcUV4UzBNelNfUmJOZVFFZGVZbERTVGhWZkE4aHlmMGNTNUxhVUpLeGplZ3dvZ18zOA?oc=5",
-          "source": "ice.co.il"
+          "source": "ice (אייס)"
         },
         {
           "title": "הצלחה חלקית: מכרז קרקע ל-50 דירות בחריש נותר ללא הצעות - גלובס",
@@ -139,7 +139,7 @@
           "source": "מרכז הנדל\"ן"
         }
       ],
-      "fetchedAt": "2026-10-04T12:15:21.017Z",
+      "fetchedAt": "2026-10-05T14:27:15.927Z",
       "stale": false,
       "via": "Google News RSS",
       "error": null
