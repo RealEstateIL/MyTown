@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T13:13:54.771Z",
+  "updatedAt": "2026-10-07T13:13:06.141Z",
   "company": {
     "name": "קבוצת מיי טאון בע\"מ",
     "tase": 2449,
@@ -26,15 +26,15 @@
       "title": "ציטוט אג״ח סדרה א׳",
       "data": {
         "price": 97.82,
-        "yieldGross": 9.26,
-        "yieldNet": 8.05,
+        "yieldGross": 9.27,
+        "yieldNet": 8.07,
         "duration": 1.55,
-        "adjustedGross": 100.1,
-        "adjustedNet": 100.09,
+        "adjustedGross": 100.12,
+        "adjustedNet": 100.11,
         "yearsToMaturity": 1.63,
-        "govSpread": 5.91
+        "govSpread": 5.89
       },
-      "fetchedAt": "2026-10-06T13:13:54.771Z",
+      "fetchedAt": "2026-10-07T13:13:06.141Z",
       "stale": false,
       "via": "ביזפורטל · טבלת ביצועים",
       "error": null
@@ -67,16 +67,22 @@
           "source": "מעריב"
         },
         {
-          "title": "אחרי 30 שנה: הפרויקט שנתקע בקריית מלאכי סוף סוף יוצא לדרך - israelhayom.co.il",
+          "title": "אחרי 30 שנה: הפרויקט שנתקע בקריית מלאכי סוף סוף יוצא לדרך - היום",
           "date": "Wed, 27 May 2026 07:00:00 GMT",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CWDVGN0YwWldHOXJXa1VXTWFldmRzczBPekxnMXZqVnZfZXFTNlZSN2MySzVXWVZhV29IN2hKWTFnLWc5dHlLc0ZhaGl2S1BWVEJnMHVVQ242c3NXY0J2N200R1U4cmhSeUNwN3I2TG5ta0VtYUHSAX5BVV95cUxNMF8wZE5LdzhtZ0Y1cGJDeFcwN0ttaW5WdzZzdkgyUG9xLW1nVGJzU0NIQVdSamdfUzVVNS1oUWRxLWtkUWhYZTFMNDBBYWN3dHdEOE5temc1TGhqdmd4WGRPYlF3N2djSGFza3U4M3hGMlVndVdZc181UF9aTVE?oc=5",
-          "source": "israelhayom.co.il"
+          "source": "היום"
         },
         {
           "title": "בפחות מ-24 שעות: החברה שמכרה 15 דירות בפרויקט אחד - ice (אייס)",
           "date": "Thu, 26 Mar 2026 07:00:00 GMT",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CTzFfbmJlMnB3ejZJLUN1dHNwTXZ2dXV6TndnaDhWcFQyU25tWUJYQm94TUg2N2VYNTZpb3JuQ3VBczVlbHZLWVRCZXRwSXR2YlN5dWF3MnU0S1F0akZLNEdPbw?oc=5",
           "source": "ice (אייס)"
+        },
+        {
+          "title": "ביקוש חריג בקריית מלאכי: 15 דירות נחטפו ביממה - mako",
+          "date": "Thu, 26 Mar 2026 07:00:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81YnNKMktHZGhoTF9Hd0VZZ2dGc0Y2TkE1ZTlBUjNqMjFEOENBbHdnWWxYUGFpdXd0cjdjeEN0VDVjOGxqNHpxTC1WOXdkejVvbVNqN3JQWlRfR19TOHJZYVlJTmdoNFdTZ0ZLVVE4Y1ZXVm5HRTJUdkNFQVd6WHc?oc=5",
+          "source": "mako"
         },
         {
           "title": "מיי טאון סוגרת ליווי של 732 מיליון ש\"ח לפרויקט ההתחדשות הראשון בקריית מלאכי - מרכז הנדל\"ן",
@@ -103,10 +109,10 @@
           "source": "TheMarker"
         },
         {
-          "title": "ההתחדשות העירונית ממשיכה להתקדם: הריסת מבנים ישנים בתל אביב ויבנה - ynet.co.il",
+          "title": "ההתחדשות העירונית ממשיכה להתקדם: הריסת מבנים ישנים בתל אביב ויבנה - YNET",
           "date": "Thu, 21 Aug 2025 07:00:00 GMT",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40bGtiOHk0Y2V5WDA0TmZJWExPeXRDaldIWnhsNDFISERlNFZSTDJQN05RNmlzZlB2blAwa1Y5ZlhoSGM0c1Rtc2NDWjVxdTlLcmdVTnVyNWRscmhJcFE?oc=5",
-          "source": "ynet.co.il"
+          "source": "YNET"
         },
         {
           "title": "רמת אביב הישנה מתחדשת: שיכון ובינוי ומיי טאון ייבנו 150 דירות - מרכז הנדל\"ן",
@@ -139,7 +145,7 @@
           "source": "מרכז הנדל\"ן"
         }
       ],
-      "fetchedAt": "2026-10-06T13:13:54.771Z",
+      "fetchedAt": "2026-10-07T13:13:06.141Z",
       "stale": false,
       "via": "Google News RSS",
       "error": null
