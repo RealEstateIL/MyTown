@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T15:13:13.192Z",
+  "updatedAt": "2026-10-13T14:04:33.357Z",
   "company": {
     "name": "קבוצת מיי טאון בע\"מ",
     "tase": 2449,
@@ -25,16 +25,16 @@
     "bond-quote": {
       "title": "ציטוט אג״ח סדרה א׳",
       "data": {
-        "price": 96.59,
-        "yieldGross": 10.1,
-        "yieldNet": 8.87,
+        "price": 96.82,
+        "yieldGross": 9.98,
+        "yieldNet": 8.75,
         "duration": 1.53,
-        "adjustedGross": 100.23,
-        "adjustedNet": 100.19,
-        "yearsToMaturity": 1.62,
-        "govSpread": 6.73
+        "adjustedGross": 100.25,
+        "adjustedNet": 100.21,
+        "yearsToMaturity": 1.61,
+        "govSpread": 6.66
       },
-      "fetchedAt": "2026-10-12T15:13:13.192Z",
+      "fetchedAt": "2026-10-13T14:04:33.357Z",
       "stale": false,
       "via": "ביזפורטל · טבלת ביצועים",
       "error": null
@@ -115,16 +115,16 @@
           "source": "YNET"
         },
         {
-          "title": "שובר שוק: נמכר הפנטהאוז היקר בהיסטוריה של קריית מלאכי - זה המחיר - ice (אייס)",
-          "date": "Thu, 23 Apr 2026 07:00:00 GMT",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91RktXYWpkcTZxUzR1Tm1LOTc5RGxOWkQ1a05ydUcyMFc2T3ktMFFjSk5mTV9VSEw2c3FZZEZ6Sm1vZ1hhVDVIbDdmZHBHcEVxVHRrWHpyY3VCUVFiaXk5MjBaWQ?oc=5",
-          "source": "ice (אייס)"
-        },
-        {
           "title": "רמת אביב הישנה מתחדשת: שיכון ובינוי ומיי טאון ייבנו 150 דירות - מרכז הנדל\"ן",
           "date": "Tue, 11 Nov 2025 08:00:00 GMT",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5hcHAwbHFfQ3NicjduU3BEbEVvOFNQNzJnalJpdXdEWjIxUDFEV0c5aF9McTc0MEJ4TDJwXzNmMnFSMG5mMlJBNndLQlEtN0ZVQzROMXc0MA?oc=5",
           "source": "מרכז הנדל\"ן"
+        },
+        {
+          "title": "שובר שוק: נמכר הפנטהאוז היקר בהיסטוריה של קריית מלאכי - זה המחיר - ice (אייס)",
+          "date": "Thu, 23 Apr 2026 07:00:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91RktXYWpkcTZxUzR1Tm1LOTc5RGxOWkQ1a05ydUcyMFc2T3ktMFFjSk5mTV9VSEw2c3FZZEZ6Sm1vZ1hhVDVIbDdmZHBHcEVxVHRrWHpyY3VCUVFiaXk5MjBaWQ?oc=5",
+          "source": "ice (אייס)"
         },
         {
           "title": "הצלחה חלקית: מכרז קרקע ל-50 דירות בחריש נותר ללא הצעות - גלובס",
@@ -157,7 +157,7 @@
           "source": "חדשות אפס שמונה"
         }
       ],
-      "fetchedAt": "2026-10-12T15:13:13.192Z",
+      "fetchedAt": "2026-10-13T14:04:33.357Z",
       "stale": false,
       "via": "Google News RSS",
       "error": null
