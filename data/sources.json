@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T14:04:33.357Z",
+  "updatedAt": "2026-10-14T11:43:27.296Z",
   "company": {
     "name": "קבוצת מיי טאון בע\"מ",
     "tase": 2449,
@@ -25,16 +25,16 @@
     "bond-quote": {
       "title": "ציטוט אג״ח סדרה א׳",
       "data": {
-        "price": 96.82,
-        "yieldGross": 9.98,
-        "yieldNet": 8.75,
-        "duration": 1.53,
-        "adjustedGross": 100.25,
-        "adjustedNet": 100.21,
+        "price": 96.84,
+        "yieldGross": 10.12,
+        "yieldNet": 8.88,
+        "duration": 1.52,
+        "adjustedGross": 100.27,
+        "adjustedNet": 100.23,
         "yearsToMaturity": 1.61,
-        "govSpread": 6.66
+        "govSpread": 6.81
       },
-      "fetchedAt": "2026-10-13T14:04:33.357Z",
+      "fetchedAt": "2026-10-14T11:43:27.296Z",
       "stale": false,
       "via": "ביזפורטל · טבלת ביצועים",
       "error": null
@@ -157,7 +157,7 @@
           "source": "חדשות אפס שמונה"
         }
       ],
-      "fetchedAt": "2026-10-13T14:04:33.357Z",
+      "fetchedAt": "2026-10-14T11:43:27.296Z",
       "stale": false,
       "via": "Google News RSS",
       "error": null

@@ -138,7 +138,7 @@
   },
   "derivedFrom": {
     "source": "data/financials.json · XBRL מגנא",
-    "at": "2026-10-13T14:04:36.317Z",
+    "at": "2026-10-14T11:43:30.183Z",
     "fields": [
       "base.totalAssets",
       "base.equityConsolidated",
