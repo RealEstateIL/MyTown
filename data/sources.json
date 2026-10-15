@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T11:43:27.296Z",
+  "updatedAt": "2026-10-15T11:19:50.761Z",
   "company": {
     "name": "קבוצת מיי טאון בע\"מ",
     "tase": 2449,
@@ -26,15 +26,15 @@
       "title": "ציטוט אג״ח סדרה א׳",
       "data": {
         "price": 96.84,
-        "yieldGross": 10.12,
-        "yieldNet": 8.88,
+        "yieldGross": 10.16,
+        "yieldNet": 8.92,
         "duration": 1.52,
-        "adjustedGross": 100.27,
-        "adjustedNet": 100.23,
+        "adjustedGross": 100.29,
+        "adjustedNet": 100.25,
         "yearsToMaturity": 1.61,
-        "govSpread": 6.81
+        "govSpread": 6.91
       },
-      "fetchedAt": "2026-10-14T11:43:27.296Z",
+      "fetchedAt": "2026-10-15T11:19:50.761Z",
       "stale": false,
       "via": "ביזפורטל · טבלת ביצועים",
       "error": null
@@ -73,16 +73,16 @@
           "source": "היום"
         },
         {
-          "title": "בפחות מ-24 שעות: החברה שמכרה 15 דירות בפרויקט אחד - ice (אייס)",
-          "date": "Thu, 26 Mar 2026 07:00:00 GMT",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CTzFfbmJlMnB3ejZJLUN1dHNwTXZ2dXV6TndnaDhWcFQyU25tWUJYQm94TUg2N2VYNTZpb3JuQ3VBczVlbHZLWVRCZXRwSXR2YlN5dWF3MnU0S1F0akZLNEdPbw?oc=5",
-          "source": "ice (אייס)"
-        },
-        {
           "title": "ביקוש חריג בקריית מלאכי: 15 דירות נחטפו ביממה - mako",
           "date": "Thu, 26 Mar 2026 07:00:00 GMT",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81YnNKMktHZGhoTF9Hd0VZZ2dGc0Y2TkE1ZTlBUjNqMjFEOENBbHdnWWxYUGFpdXd0cjdjeEN0VDVjOGxqNHpxTC1WOXdkejVvbVNqN3JQWlRfR19TOHJZYVlJTmdoNFdTZ0ZLVVE4Y1ZXVm5HRTJUdkNFQVd6WHc?oc=5",
           "source": "mako"
+        },
+        {
+          "title": "בפחות מ-24 שעות: החברה שמכרה 15 דירות בפרויקט אחד - ice (אייס)",
+          "date": "Thu, 26 Mar 2026 07:00:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CTzFfbmJlMnB3ejZJLUN1dHNwTXZ2dXV6TndnaDhWcFQyU25tWUJYQm94TUg2N2VYNTZpb3JuQ3VBczVlbHZLWVRCZXRwSXR2YlN5dWF3MnU0S1F0akZLNEdPbw?oc=5",
+          "source": "ice (אייס)"
         },
         {
           "title": "מיי טאון סוגרת ליווי של 732 מיליון ש\"ח לפרויקט ההתחדשות הראשון בקריית מלאכי - מרכז הנדל\"ן",
@@ -157,7 +157,7 @@
           "source": "חדשות אפס שמונה"
         }
       ],
-      "fetchedAt": "2026-10-14T11:43:27.296Z",
+      "fetchedAt": "2026-10-15T11:19:50.761Z",
       "stale": false,
       "via": "Google News RSS",
       "error": null
