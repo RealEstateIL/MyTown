@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T11:19:50.761Z",
+  "updatedAt": "2026-10-18T10:56:35.122Z",
   "company": {
     "name": "קבוצת מיי טאון בע\"מ",
     "tase": 2449,
@@ -25,16 +25,16 @@
     "bond-quote": {
       "title": "ציטוט אג״ח סדרה א׳",
       "data": {
-        "price": 96.84,
-        "yieldGross": 10.16,
-        "yieldNet": 8.92,
+        "price": 96.35,
+        "yieldGross": 10.78,
+        "yieldNet": 9.52,
         "duration": 1.52,
-        "adjustedGross": 100.29,
-        "adjustedNet": 100.25,
+        "adjustedGross": 100.31,
+        "adjustedNet": 100.26,
         "yearsToMaturity": 1.61,
-        "govSpread": 6.91
+        "govSpread": 7.59
       },
-      "fetchedAt": "2026-10-15T11:19:50.761Z",
+      "fetchedAt": "2026-10-18T10:56:35.122Z",
       "stale": false,
       "via": "ביזפורטל · טבלת ביצועים",
       "error": null
@@ -55,12 +55,6 @@
           "source": "מרכז הנדל\"ן"
         },
         {
-          "title": "בקומה ה-21 בעיר המפתיעה: נמכר הפנטהאוז היקר ביותר אי פעם ב-3.4 מיליון שקל - וואלה נדל\"ן",
-          "date": "Sun, 26 Apr 2026 07:00:00 GMT",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QTnVNaFV2cFBXUjJCTVR3OWt0VElRNWp5eUpfc1d2R1dodGI4ckFRbU9fdlp5QXN5Rk1WWWN6ZV9QaXkzMmw2MnhPVGw1VS1X?oc=5",
-          "source": "וואלה נדל\"ן"
-        },
-        {
           "title": "בקומה ה-21 בעיר המפתיעה: נמכר הפנטהאוז היקר ביותר אי פעם ב-3.4 מיליון שקל - מעריב",
           "date": "Thu, 23 Apr 2026 07:00:00 GMT",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LYVhySDVvckhEYkdWdFVFWk10bndSOW41WWhYVXloX2dPOWpZaWVaRWNhTV9kWjA1bzR2dXQ0X2M5Y2F1bm9nYnF0VzVrdm41cVpYZWNlY25NdkRvNGlzY2JHTHJ2WndTS2I0?oc=5",
@@ -73,16 +67,16 @@
           "source": "היום"
         },
         {
-          "title": "ביקוש חריג בקריית מלאכי: 15 דירות נחטפו ביממה - mako",
-          "date": "Thu, 26 Mar 2026 07:00:00 GMT",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81YnNKMktHZGhoTF9Hd0VZZ2dGc0Y2TkE1ZTlBUjNqMjFEOENBbHdnWWxYUGFpdXd0cjdjeEN0VDVjOGxqNHpxTC1WOXdkejVvbVNqN3JQWlRfR19TOHJZYVlJTmdoNFdTZ0ZLVVE4Y1ZXVm5HRTJUdkNFQVd6WHc?oc=5",
-          "source": "mako"
-        },
-        {
           "title": "בפחות מ-24 שעות: החברה שמכרה 15 דירות בפרויקט אחד - ice (אייס)",
           "date": "Thu, 26 Mar 2026 07:00:00 GMT",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CTzFfbmJlMnB3ejZJLUN1dHNwTXZ2dXV6TndnaDhWcFQyU25tWUJYQm94TUg2N2VYNTZpb3JuQ3VBczVlbHZLWVRCZXRwSXR2YlN5dWF3MnU0S1F0akZLNEdPbw?oc=5",
           "source": "ice (אייס)"
+        },
+        {
+          "title": "ביקוש חריג בקריית מלאכי: 15 דירות נחטפו ביממה - mako",
+          "date": "Thu, 26 Mar 2026 07:00:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81YnNKMktHZGhoTF9Hd0VZZ2dGc0Y2TkE1ZTlBUjNqMjFEOENBbHdnWWxYUGFpdXd0cjdjeEN0VDVjOGxqNHpxTC1WOXdkejVvbVNqN3JQWlRfR19TOHJZYVlJTmdoNFdTZ0ZLVVE4Y1ZXVm5HRTJUdkNFQVd6WHc?oc=5",
+          "source": "mako"
         },
         {
           "title": "מיי טאון סוגרת ליווי של 732 מיליון ש\"ח לפרויקט ההתחדשות הראשון בקריית מלאכי - מרכז הנדל\"ן",
@@ -127,12 +121,6 @@
           "source": "ice (אייס)"
         },
         {
-          "title": "הצלחה חלקית: מכרז קרקע ל-50 דירות בחריש נותר ללא הצעות - גלובס",
-          "date": "Wed, 20 Nov 2024 08:00:00 GMT",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4ycGktR3pGSU0zb1pxcUItNTlLMnRoOWUzWXdpTGlabHBCdmNwM240blRoQ2IxS0ZSaXFjM2Vid2ozcFhhd0FpV20wQ3VDZkxMZlNzM3gtOEMta0Q2bmQ0WWxXWWx3a1R3?oc=5",
-          "source": "גלובס"
-        },
-        {
           "title": "732 מיליון ש\"ח בדרך לקריית מלאכי: המיזם שישנה את פני העיר - ice (אייס)",
           "date": "Thu, 27 Nov 2025 08:00:00 GMT",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIbVJkM1NMYkkwT1otc0JQYjVfR2pCcTZMa29ZMkRMZmp1d3JOdzJJWlpwcUV4UzBNelNfUmJOZVFFZGVZbERTVGhWZkE4aHlmMGNTNUxhVUpLeGplZ3dvZ18zOA?oc=5",
@@ -157,7 +145,7 @@
           "source": "חדשות אפס שמונה"
         }
       ],
-      "fetchedAt": "2026-10-15T11:19:50.761Z",
+      "fetchedAt": "2026-10-18T10:56:35.122Z",
       "stale": false,
       "via": "Google News RSS",
       "error": null
