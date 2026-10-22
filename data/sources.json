@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T11:40:11.142Z",
+  "updatedAt": "2026-10-22T11:41:55.407Z",
   "company": {
     "name": "קבוצת מיי טאון בע\"מ",
     "tase": 2449,
@@ -26,15 +26,15 @@
       "title": "ציטוט אג״ח סדרה א׳",
       "data": {
         "price": 95.84,
-        "yieldGross": 11.02,
-        "yieldNet": 9.75,
+        "yieldGross": 11.7,
+        "yieldNet": 10.41,
         "duration": 1.5,
-        "adjustedGross": 100.41,
-        "adjustedNet": 100.35,
+        "adjustedGross": 100.43,
+        "adjustedNet": 100.37,
         "yearsToMaturity": 1.59,
-        "govSpread": 7.87
+        "govSpread": 8.52
       },
-      "fetchedAt": "2026-10-21T11:40:11.142Z",
+      "fetchedAt": "2026-10-22T11:41:55.407Z",
       "stale": false,
       "via": "ביזפורטל · טבלת ביצועים",
       "error": null
@@ -73,9 +73,9 @@
           "source": "mako"
         },
         {
-          "title": "יובל שרף קוטפת קמפיין במיליונים: זה הג'וב היוקרתי בחברת הנדל\"ן - ice (אייס)",
-          "date": "Sun, 15 Feb 2026 08:00:00 GMT",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpZ1VSVlIyYm4zZTltdDRjdDF5U1J0czhEVVBLb1p6Sm1hUFVLWHhQeXFIR29mbElkdWdrbi1adWZjLVRyVGlMczNDVG9RT2F5WVJDNG1kcjBjQ1VncHV1MHJZSEN0LWpxZ0dXSWpiQWJKQQ?oc=5",
+          "title": "שובר שוק: נמכר הפנטהאוז היקר בהיסטוריה של קריית מלאכי - זה המחיר - ice (אייס)",
+          "date": "Thu, 23 Apr 2026 07:00:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91RktXYWpkcTZxUzR1Tm1LOTc5RGxOWkQ1a05ydUcyMFc2T3ktMFFjSk5mTV9VSEw2c3FZZEZ6Sm1vZ1hhVDVIbDdmZHBHcEVxVHRrWHpyY3VCUVFiaXk5MjBaWQ?oc=5",
           "source": "ice (אייס)"
         },
         {
@@ -97,9 +97,9 @@
           "source": "TheMarker"
         },
         {
-          "title": "שובר שוק: נמכר הפנטהאוז היקר בהיסטוריה של קריית מלאכי - זה המחיר - ice (אייס)",
-          "date": "Thu, 23 Apr 2026 07:00:00 GMT",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91RktXYWpkcTZxUzR1Tm1LOTc5RGxOWkQ1a05ydUcyMFc2T3ktMFFjSk5mTV9VSEw2c3FZZEZ6Sm1vZ1hhVDVIbDdmZHBHcEVxVHRrWHpyY3VCUVFiaXk5MjBaWQ?oc=5",
+          "title": "יובל שרף קוטפת קמפיין במיליונים: זה הג'וב היוקרתי בחברת הנדל\"ן - ice (אייס)",
+          "date": "Sun, 15 Feb 2026 08:00:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpZ1VSVlIyYm4zZTltdDRjdDF5U1J0czhEVVBLb1p6Sm1hUFVLWHhQeXFIR29mbElkdWdrbi1adWZjLVRyVGlMczNDVG9RT2F5WVJDNG1kcjBjQ1VncHV1MHJZSEN0LWpxZ0dXSWpiQWJKQQ?oc=5",
           "source": "ice (אייס)"
         },
         {
@@ -127,19 +127,13 @@
           "source": "ice (אייס)"
         },
         {
-          "title": "גיוס אג\"ח ראשון ל-MY TOWN: גייסה 62 מיליון שקל עם ביקושים של מעל 150 מלש\"ח - מרכז הנדל\"ן",
-          "date": "Wed, 04 Dec 2024 08:00:00 GMT",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xaWxNQnAxbFduM2ZVcW1IRkdiN2swa3haZGE5Q3VIZTJFTWh4c1FIb1JwZ1ZMRmlOSU1hQ1VubTFKRXl5Y2dsMU5BVE51MTJVNWktUUtYTQ?oc=5",
-          "source": "מרכז הנדל\"ן"
-        },
-        {
           "title": "42 מיליון שקל על הכף: ביהמ\"ש קיבל את בקשת מיי טאון לעיכוב הליכים בתביעת גבאי נגדה - מרכז הנדל\"ן",
           "date": "Thu, 27 Jul 2023 07:00:00 GMT",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85eEdjVE9VY3RmTl9fdzRFR2ZYZl9VenlhcEhPUGFiN1JFTU4tV2dfUG5FMmNFbXpGd0ViSGoyeWdDXzBRYXhTdWVCNjltekdJN1VHeDFB?oc=5",
           "source": "מרכז הנדל\"ן"
         }
       ],
-      "fetchedAt": "2026-10-21T11:40:11.142Z",
+      "fetchedAt": "2026-10-22T11:41:55.407Z",
       "stale": false,
       "via": "Google News RSS",
       "error": null
