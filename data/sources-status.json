@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-10-28T12:42:21.298Z",
+  "ranAt": "2026-10-29T12:52:00.064Z",
   "env": "GitHub Actions",
   "results": [
     {
@@ -15,14 +15,14 @@
           "candidate": "mayaapi · company/reports",
           "url": "https://mayaapi.tase.co.il/api/company/reports?companyId=2449&lang=he",
           "status": 403,
-          "ms": 737,
+          "ms": 905,
           "result": "HTTP שגוי"
         },
         {
           "candidate": "mayaapi · v1/company/reports",
           "url": "https://mayaapi.tase.co.il/api/v1/company/reports?companyId=2449&lang=he",
           "status": 403,
-          "ms": 894,
+          "ms": 694,
           "result": "HTTP שגוי"
         }
       ]
@@ -40,14 +40,14 @@
           "candidate": "magna · חיפוש לפי ח.פ.",
           "url": "https://www.magna.isa.gov.il/api/reports/search?corporateNumber=514444660&pageSize=30",
           "status": 403,
-          "ms": 107,
+          "ms": 136,
           "result": "HTTP שגוי"
         },
         {
           "candidate": "magna · דף התוצאות · פרסור HTML",
           "url": "https://www.magna.isa.gov.il/?q=514444660",
           "status": 403,
-          "ms": 6,
+          "ms": 16,
           "result": "HTTP שגוי"
         }
       ]
@@ -65,8 +65,8 @@
           "candidate": "ביזפורטל · טבלת ביצועים",
           "url": "https://www.bizportal.co.il/bonds/quote/generalview/1214626",
           "status": 200,
-          "bytes": 188533,
-          "ms": 620,
+          "bytes": 188956,
+          "ms": 319,
           "result": "הצליח"
         }
       ]
@@ -76,17 +76,23 @@
       "title": "כתבות שפורסמו",
       "why": "הקשר חיצוני לדיווחים · מה שהעיתונות מדווחת ואינו בגילוי",
       "blockedOnCI": null,
-      "ok": true,
-      "via": "Google News RSS",
-      "count": 18,
+      "ok": false,
+      "via": null,
+      "count": 0,
       "attempts": [
         {
           "candidate": "Google News RSS",
           "url": "https://news.google.com/rss/search?q=%22%D7%A7%D7%91%D7%95%D7%A6%D7%AA%20%D7%9E%D7%99%D7%99%20%D7%98%D7%90%D7%95%D7%9F%22&hl=he&gl=IL&ceid=IL:he",
-          "status": 200,
-          "bytes": 19672,
-          "ms": 238,
-          "result": "הצליח"
+          "status": 503,
+          "ms": 6505,
+          "result": "HTTP שגוי"
+        },
+        {
+          "candidate": "ביזפורטל · חיפוש",
+          "url": "https://www.bizportal.co.il/search?q=%D7%A7%D7%91%D7%95%D7%A6%D7%AA%20%D7%9E%D7%99%D7%99%20%D7%98%D7%90%D7%95%D7%9F",
+          "status": 404,
+          "ms": 249,
+          "result": "HTTP שגוי"
         }
       ]
     }
