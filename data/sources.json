@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T15:38:32.187Z",
+  "updatedAt": "2026-11-03T14:02:07.085Z",
   "company": {
     "name": "קבוצת מיי טאון בע\"מ",
     "tase": 2449,
@@ -26,15 +26,15 @@
       "title": "ציטוט אג״ח סדרה א׳",
       "data": {
         "price": 95,
-        "yieldGross": 11.95,
-        "yieldNet": 10.63,
-        "duration": 1.47,
-        "adjustedGross": 100.66,
-        "adjustedNet": 100.56,
+        "yieldGross": 11.97,
+        "yieldNet": 10.65,
+        "duration": 1.46,
+        "adjustedGross": 100.68,
+        "adjustedNet": 100.58,
         "yearsToMaturity": 1.56,
-        "govSpread": 8.69
+        "govSpread": 8.71
       },
-      "fetchedAt": "2026-11-02T15:38:32.187Z",
+      "fetchedAt": "2026-11-03T14:02:07.085Z",
       "stale": false,
       "via": "ביזפורטל · טבלת ביצועים",
       "error": null
@@ -57,7 +57,7 @@
         {
           "title": "מיי טאון: תושבי חוץ דוחים עסקאות במיליוני שקלים לאחרי הבחירות לכנסת - היום",
           "date": "Tue, 22 Sep 2026 07:00:00 GMT",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nSXpObkROMnBJSkRyVWxsVW5tNXBXa1NLRjUtZU0wZWp1MktrV0lZcnhUdVAzMG5KTVhkU0Z3X2FraVMzSDhzSUVyZXI2c2swcEZvNEo2QjJDdmtjcGVudXg4aDdTTFdVRE9ScnFZSF9CVy1wQkHSAX5BVV95cUxNTjBsR0pNZDUtZzFfeTVxOVBabl8yc3ZhOGdzYk5QWkRzdDNmY2VpSWJJaUh2WlN1MDB4RVBCVWxXYzVpajh0Q2VwQm1WOFZYWWx1Qm1ZbG0yc2EyOXQxdHJtbDFqeUo5MF9mV0tYWXRMcENNZldWZlFsV0lDMnc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nSXpObkROMnBJSkRyVWxsVW5tNXBXa1NLRjUtZU0wZWp1MktrV0lZcnhUdVAzMG5KTVhkU0Z3X2FraVMzSDhzSUVyZXI2c2swcEZvNEo2QjJDdmtjcGVudXg4aDdTTFdVRE9ScnFZSF9CVy1wQkE?oc=5",
           "source": "היום"
         },
         {
@@ -115,6 +115,12 @@
           "source": "מרכז הנדל\"ן"
         },
         {
+          "title": "הצלחה חלקית: מכרז קרקע ל-50 דירות בחריש נותר ללא הצעות - גלובס",
+          "date": "Wed, 20 Nov 2024 08:00:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4ycGktR3pGSU0zb1pxcUItNTlLMnRoOWUzWXdpTGlabHBCdmNwM240blRoQ2IxS0ZSaXFjM2Vid2ozcFhhd0FpV20wQ3VDZkxMZlNzM3gtOEMta0Q2bmQ0WWxXWWx3a1R3?oc=5",
+          "source": "גלובס"
+        },
+        {
           "title": "גיוס אג\"ח ראשון ל-MY TOWN: גייסה 62 מיליון שקל עם ביקושים של מעל 150 מלש\"ח - מרכז הנדל\"ן",
           "date": "Wed, 04 Dec 2024 08:00:00 GMT",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xaWxNQnAxbFduM2ZVcW1IRkdiN2swa3haZGE5Q3VIZTJFTWh4c1FIb1JwZ1ZMRmlOSU1hQ1VubTFKRXl5Y2dsMU5BVE51MTJVNWktUUtYTQ?oc=5",
@@ -127,7 +133,7 @@
           "source": "מרכז הנדל\"ן"
         }
       ],
-      "fetchedAt": "2026-11-02T15:38:32.187Z",
+      "fetchedAt": "2026-11-03T14:02:07.085Z",
       "stale": false,
       "via": "Google News RSS",
       "error": null
