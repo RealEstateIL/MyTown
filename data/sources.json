@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T14:07:01.728Z",
+  "updatedAt": "2026-11-12T15:03:28.908Z",
   "company": {
     "name": "קבוצת מיי טאון בע\"מ",
     "tase": 2449,
@@ -26,15 +26,15 @@
       "title": "ציטוט אג״ח סדרה א׳",
       "data": {
         "price": 94.99,
-        "yieldGross": 12.17,
-        "yieldNet": 10.83,
+        "yieldGross": 12.2,
+        "yieldNet": 10.85,
         "duration": 1.44,
-        "adjustedGross": 100.84,
-        "adjustedNet": 100.72,
+        "adjustedGross": 100.86,
+        "adjustedNet": 100.73,
         "yearsToMaturity": 1.53,
         "govSpread": 8.97
       },
-      "fetchedAt": "2026-11-11T14:07:01.728Z",
+      "fetchedAt": "2026-11-12T15:03:28.908Z",
       "stale": false,
       "via": "ביזפורטל · טבלת ביצועים",
       "error": null
@@ -53,6 +53,12 @@
           "date": "Thu, 26 Mar 2026 07:00:00 GMT",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmaGYzUXlDd21zYnNIemkwUnp5RmJVeGx0VEI0Z2NYeDM2THc1Nmk1alBlY1haV2taRVpfRjl4RXhTS0RybnRvZlBSdGdISnVfMjIybTdCOA?oc=5",
           "source": "מרכז הנדל\"ן"
+        },
+        {
+          "title": "קבוצת מיי טאון: חתמה על חמישה הסכמי ליווי ומימון לפרויקטים בתל אביב בהיקף של כ-101 מיליון ₪ מאת Investing.com - Investing.com",
+          "date": "Wed, 11 Nov 2026 16:17:44 GMT",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCVDF6NjNMYkdNWjExRmFVekM5emg4bW1OTXFZVVplcVVnVXk3N2taMTZhd1c5dUJKcm5WRXFqbklVQVM3bF9aSFUwZkZEd0dvREpxMmRULTFvWHJqQXpmZ1VFby0xTGdIZHFRVFV6b1BGMFk?oc=5",
+          "source": "Investing.com"
         },
         {
           "title": "בקומה ה-21 בעיר המפתיעה: נמכר הפנטהאוז היקר ביותר אי פעם ב-3.4 מיליון שקל - מעריב",
@@ -91,16 +97,16 @@
           "source": "ice (אייס)"
         },
         {
-          "title": "קבוצת מיי טאון מדווחת על תוצאות הרבעון הראשון: הכנסות צפויות של 7.3 מיליארד ₪ ממאגר הפרויקטים מאת Investing.com - Investing.com",
-          "date": "Thu, 28 May 2026 07:00:00 GMT",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKWldQTGxYN1owcVkzaTQwTFBDQXUyVFBoam5fd3VtZVpsWThsTGdzNldxM2VXdnpOcWZLbnVtc2xDUWIwdHFNMVdKMXllai1ibm5JU2RES0pWTGluWFVyRHZCSjZJRVdTVGdxYnpXaEhWZw?oc=5",
-          "source": "Investing.com"
-        },
-        {
           "title": "ניצלה סכסוך שותפים: קבוצת גבאי השתלטה על חברת הבת של קבוצת מאי טאון - TheMarker",
           "date": "Wed, 20 Nov 2024 08:00:00 GMT",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWW9sSkJYbGdXNlMyN0xNRkdLV2JicGl5blRWbWRBUEx2OUhJRG9wS3hGTjJlZGJ1X3NCVjlZUHRVb3FTc2tGWVB3NDRDbU83eHZzeWo1YWx4Qm9HN3ppZm05RXlBVF9HcnNhMEJNZ1RvcHd3Ul9pczBtdklmcnUxdXBSNmY0c1lhTUZhNUJuQWNLV0NQdklsanotLXF5eEFLV3ZnanZYQQ?oc=5",
           "source": "TheMarker"
+        },
+        {
+          "title": "קבוצת מיי טאון מדווחת על תוצאות הרבעון הראשון: הכנסות צפויות של 7.3 מיליארד ₪ ממאגר הפרויקטים מאת Investing.com - Investing.com",
+          "date": "Thu, 28 May 2026 07:00:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKWldQTGxYN1owcVkzaTQwTFBDQXUyVFBoam5fd3VtZVpsWThsTGdzNldxM2VXdnpOcWZLbnVtc2xDUWIwdHFNMVdKMXllai1ibm5JU2RES0pWTGluWFVyRHZCSjZJRVdTVGdxYnpXaEhWZw?oc=5",
+          "source": "Investing.com"
         },
         {
           "title": "גיוס אג\"ח ראשון ל-MY TOWN: גייסה 62 מיליון שקל עם ביקושים של מעל 150 מלש\"ח - מרכז הנדל\"ן",
@@ -139,7 +145,7 @@
           "source": "מרכז הנדל\"ן"
         }
       ],
-      "fetchedAt": "2026-11-11T14:07:01.728Z",
+      "fetchedAt": "2026-11-12T15:03:28.908Z",
       "stale": false,
       "via": "Google News RSS",
       "error": null
