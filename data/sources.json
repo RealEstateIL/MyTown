@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T14:28:30.943Z",
+  "updatedAt": "2026-11-23T17:56:48.050Z",
   "company": {
     "name": "קבוצת מיי טאון בע\"מ",
     "tase": 2449,
@@ -26,15 +26,15 @@
       "title": "ציטוט אג״ח סדרה א׳",
       "data": {
         "price": 93.51,
-        "yieldGross": 13.65,
-        "yieldNet": 12.26,
-        "duration": 1.41,
-        "adjustedGross": 101.03,
-        "adjustedNet": 100.87,
-        "yearsToMaturity": 1.51,
-        "govSpread": 10.5
+        "yieldGross": 13.74,
+        "yieldNet": 12.33,
+        "duration": 1.4,
+        "adjustedGross": 101.09,
+        "adjustedNet": 100.93,
+        "yearsToMaturity": 1.5,
+        "govSpread": 10.65
       },
-      "fetchedAt": "2026-11-22T14:28:30.943Z",
+      "fetchedAt": "2026-11-23T17:56:48.050Z",
       "stale": false,
       "via": "ביזפורטל · טבלת ביצועים",
       "error": null
@@ -71,12 +71,6 @@
           "date": "Tue, 25 Aug 2026 07:00:00 GMT",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAzc1pIV1d5bl9Ub0RnREwyWE9HZUdGV2ZVNjdUNF94QnA5TVYyMzJfUXZlYnVTd0RKd252bHVURnd1NS05WWlGM2hfalUybFdQakg3SmY4Q0NXdXNOZFF0X2dERQ?oc=5",
           "source": "ice (אייס)"
-        },
-        {
-          "title": "קבוצת מיי טאון: חתמה על חמישה הסכמי ליווי ומימון לפרויקטים בתל אביב בהיקף של כ-101 מיליון ₪ מאת Investing.com - Investing.com",
-          "date": "Wed, 11 Nov 2026 16:17:44 GMT",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCVDF6NjNMYkdNWjExRmFVekM5emg4bW1OTXFZVVplcVVnVXk3N2taMTZhd1c5dUJKcm5WRXFqbklVQVM3bF9aSFUwZkZEd0dvREpxMmRULTFvWHJqQXpmZ1VFby0xTGdIZHFRVFV6b1BGMFk?oc=5",
-          "source": "Investing.com"
         },
         {
           "title": "ביקוש חריג בקריית מלאכי: 15 דירות נחטפו ביממה - mako",
@@ -139,7 +133,7 @@
           "source": "ice (אייס)"
         }
       ],
-      "fetchedAt": "2026-11-22T14:28:30.943Z",
+      "fetchedAt": "2026-11-23T17:56:48.050Z",
       "stale": false,
       "via": "Google News RSS",
       "error": null
